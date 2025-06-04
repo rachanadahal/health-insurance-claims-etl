@@ -1,0 +1,5 @@
+ClaimID,PatientID,Age,Gender,Diagnosis,ProcedureCode,Cost,ClaimDate
+1001,201,45,F,Diabetes,PROC01,500,2024-01-10
+1002,202,36,M,Hypertension,PROC02,800,2024-01-12
+1003,203,29,F,Asthma,PROC01,300,2024-01-15
+1004,204,52,M,Diabetes,PROC03,700,2024-01-20
